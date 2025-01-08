@@ -88,11 +88,11 @@ body{
 }
 
 #logo{
-    max-height: 75px;
+    max-height: 75px !important;
 }
 
 #img{
-    max-height: 220px;
+    max-height: 220px !important;
 }
 
 
