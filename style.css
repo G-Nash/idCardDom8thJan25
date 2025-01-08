@@ -47,7 +47,7 @@ body{
     background-color: white;
     color: black;
     border-radius: 1rem;
-    /* display: none; */
+    display: none;
 }
 
 #id p{
